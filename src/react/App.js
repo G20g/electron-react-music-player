@@ -13,7 +13,7 @@ function App() {
       url: "https://deezerdevs-deezer.p.rapidapi.com/search",
       params: { q: "eminem" },
       headers: {
-        "x-rapidapi-key": "fa762e1dd8mshd2f6c1bca4f4d0dp1e2f8ejsn0ba37c0e97d7",
+        "x-rapidapi-key": "YOUR_API_KEY",
         "x-rapidapi-host": "deezerdevs-deezer.p.rapidapi.com",
       },
     };
